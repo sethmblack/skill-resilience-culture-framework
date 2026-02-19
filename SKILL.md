@@ -4,7 +4,7 @@ description: Build organizational resilience and character through intentional e
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4833
+  version: 1.0.4834
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - resilience-culture-framework
